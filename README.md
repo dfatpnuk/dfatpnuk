@@ -15,6 +15,10 @@
 
 ### 💼 Currently Working On...
 
+### 💼 Where I Work
+
+![Deakin](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+
 
  <!-- Deakin Link -->
   <a href="https://www.linkedin.com/in/jblackwe11/" target="_blank">
