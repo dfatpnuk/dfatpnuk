@@ -17,7 +17,7 @@
 
 ### 💼 Where I Work
 
-![Deakin](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Deakin](https://img.shields.io/badge/Deakin_University-blue)
 
 
  <!-- Deakin Link -->
