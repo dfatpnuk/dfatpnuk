@@ -15,7 +15,10 @@
 
 ### 💼 Currently Working On...
 
-![Research at Deakin University](https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Deakin_University_Logo_2017.svg/1200px-Deakin_University_Logo_2017.svg.png)
+ <!-- Deakin Link -->
+  <a href="https://www.linkedin.com/in/jblackwe11/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Deakin_University_Logo_2017.svg/1200px-Deakin_University_Logo_2017.svg.png"/>
+  </a>
 
 * Deakin University Summer Research Project - Building a tabular data generation framework in Python.
 
