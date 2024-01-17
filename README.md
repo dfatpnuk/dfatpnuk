@@ -1,4 +1,4 @@
-# Hi, my name is Jaime 
+# Hi, my name is Jaime 👋
 
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/jblackwe11/" target="_blank">
