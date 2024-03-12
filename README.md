@@ -12,6 +12,8 @@
   
 </br>
 <p>
+ 
+### 📍 Located in Melbourne, Australia...
 
 ### 💼 Where I Work...
 
@@ -29,8 +31,8 @@
   
 * 2023 recipient of the CREST Summer Research Scholarship
 
-###  Get in Contact with me...
+### 🤙 Get in Contact with me...
 
 * I can be reached via email at jaime.shae.blackwell@gmail.com
-* 
+  
 * The best way to contact me quickly is by calling or texting me on 0434 383 703.
