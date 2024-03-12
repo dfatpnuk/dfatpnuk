@@ -13,7 +13,7 @@
 </br>
 <p>
  
-### 📍 Located in Melbourne, Australia...
+### 📍 Located in Melbourne, Australia.
 
 ### 💼 Where I Work...
 
