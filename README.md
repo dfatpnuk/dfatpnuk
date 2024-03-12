@@ -21,7 +21,7 @@
   </a>
 
 
-* Deakin University Summer Research Project - Building a tabular data generation framework in Python.
+* Deakin University - Evaluating Tabular Data Generative Models
 
 ### ✏️ Currently Studying...
 
@@ -32,4 +32,5 @@
 ###  Get in Contact with me...
 
 * I can be reached via email at jaime.shae.blackwell@gmail.com
+* 
 * The best way to contact me quickly is by calling or texting me on 0434 383 703.
