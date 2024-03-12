@@ -31,5 +31,5 @@
 
 ###  Get in Contact with me...
 
-
-* My mobile is 0434 383 703
+* I can be reached via email at jaime.shae.blackwell@gmail.com
+* The best way to contact me quickly is by calling or texting me on 0434 383 703.
