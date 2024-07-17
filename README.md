@@ -17,21 +17,20 @@
 
 ### 💼 Where I Work...
 
- <!-- Deakin Link -->
-  <a href="https://www.linkedin.com/in/jblackwe11/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Deakin_University_Logo_2017.svg/1200px-Deakin_University_Logo_2017.svg.png" width="75" height="75"/>
-  </a>
-
-
-* Deakin University - Evaluating Tabular Data Generative Models
-
 <!-- Wilson AI Link -->
   <a href="https://www.linkedin.com/in/jblackwe11/" target="_blank">
     <img src="https://wilsonai.com/resources/logo_size.jpg" width="75" height="75"/>
   </a>
 
+* Wilson AI - Humanising Artificial Intelligence
 
-* Wilson AI
+ <!-- Deakin Link -->
+  <a href="https://www.linkedin.com/in/jblackwe11/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Deakin_University_Logo_2017.svg/1200px-Deakin_University_Logo_2017.svg.png" width="75" height="75"/>
+  </a>
+
+* Deakin University - Evaluating Tabular Data Generative Models
+
 
 ### ✏️ Currently Studying...
 
