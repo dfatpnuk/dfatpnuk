@@ -25,6 +25,14 @@
 
 * Deakin University - Evaluating Tabular Data Generative Models
 
+*  <!-- Wilson AI Link -->
+  <a href="https://www.linkedin.com/in/jblackwe11/" target="_blank">
+    <img src="https://wilsonai.com/resources/logo_size.jpg" width="75" height="75"/>
+  </a>
+
+
+* Wilson AI
+
 ### ✏️ Currently Studying...
 
 * Bachelor of Computer Science (Honours) with a special interest in Machine Learning and Bayesian Inference.
