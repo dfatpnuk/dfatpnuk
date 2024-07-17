@@ -25,7 +25,7 @@
 
 * Deakin University - Evaluating Tabular Data Generative Models
 
-*  <!-- Wilson AI Link -->
+<!-- Wilson AI Link -->
   <a href="https://www.linkedin.com/in/jblackwe11/" target="_blank">
     <img src="https://wilsonai.com/resources/logo_size.jpg" width="75" height="75"/>
   </a>
