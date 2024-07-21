@@ -40,6 +40,4 @@
 
 ### 🤙 Get in Contact with me...
 
-* I can be reached via email at jaime.shae.blackwell@gmail.com
-  
-* The best way to contact me quickly is by calling or texting me on 0434 383 703.
+* The best way to contact me is at jaime.shae.blackwell@gmail.com
