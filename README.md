@@ -41,3 +41,9 @@
 ### 🤙 Get in Contact with me...
 
 * The best way to contact me is at jaime.shae.blackwell@gmail.com
+
+
+### 🧐 My broader interests include...
+
+* The history of computing
+*
