@@ -46,4 +46,4 @@
 ### 🧐 My broader interests include...
 
 * The history of computing
-*
+* Squiggly lines
