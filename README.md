@@ -32,18 +32,9 @@
 * Deakin University - Evaluating Tabular Data Generative Models
 
 
-### ✏️ Currently Studying...
+### ✏️ Education...
 
 * Bachelor of Computer Science (Honours) with a special interest in Machine Learning and Bayesian Inference.
   
 * 2023 recipient of the CREST Summer Research Scholarship
 
-### 🤙 Get in Contact with me...
-
-* The best way to contact me is at jaime.shae.blackwell@gmail.com
-
-
-### 🧐 My broader interests include...
-
-* The history of computing
-* Squiggly lines
